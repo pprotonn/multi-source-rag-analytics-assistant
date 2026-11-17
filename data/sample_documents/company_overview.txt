@@ -1,0 +1,7 @@
+Company: TechNova Solutions
+TechNova Solutions is a technology company founded in 2020.
+The company provides software development and cloud consulting services.
+Its headquarters are in Bengaluru.
+The company has 120 employees.
+Its main products are CloudSync and DataFlow.
+The company serves customers in India and Singapore.
