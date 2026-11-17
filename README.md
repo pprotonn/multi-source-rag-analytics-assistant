@@ -40,6 +40,7 @@ For supported numerical questions, Aavya AI also uses Pandas to calculate busine
 | Testing | Pytest |
 | Containerization | Docker |
 
+
 ## 🏗️ Architecture
 
 ```mermaid
@@ -58,6 +59,7 @@ flowchart TD
     K --> L[Generated Answer]
     L --> M[Streamlit Interface]
 ```
+
 
 ## 📂 Project Structure
 
